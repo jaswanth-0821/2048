@@ -1,4 +1,4 @@
 # 2048
 2048 game with GUI toolkit python
 
-- To run this code you just copy it into your editor but you need to install tkinter in your laptop .If you cant do this just download the video and know how this code work 
+- To know how this work just go to 2048 exe file and download project_3.exe ....after downloading just double click on it.
